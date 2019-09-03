@@ -291,6 +291,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [Brett Bonnet's Solution](https://github.com/Brett-Bonnet/tic-tac-toe)
 * [Adriel Bruno's Solution](https://github.com/AdrielTrigger/Odin-Project-Ruby-OOP/blob/master/tic_tac_toe.rb)
 * [Ray Alvarez's Solution](https://github.com/ray-alvarez/tic_tac_toe)
+* [Sung Guk Lee's Solution](https://repl.it/@katsuya245126/Tic-Tac-Toe)
 </details>
 
 ### Project 2: Mastermind
